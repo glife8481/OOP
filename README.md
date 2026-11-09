@@ -9,13 +9,13 @@ Java programs written for my Object-Oriented Programming course at B.M.S. Colleg
 | Program | What it models | OOP concepts |
 | --- | --- | --- |
 | [`Book.java`](Book.java) | Library books with ID, title, author and price | Classes and objects, constructors, methods |
-| [`Student.java`](Student.java) | Student records read from the keyboard | Classes, arrays of objects, `Scanner` input |
+| [`Student.java`](Student.java) | Student records read from the keyboard | Classes, multiple objects, instance methods, `Scanner` input |
 | [`Vehicle.java`](Vehicle.java) | Parking bill for each vehicle | Classes, methods, calculations on object data |
 | [`Course.java`](Course.java) | A course and an online course | Inheritance (`extends`), `super(...)` constructor calls |
 | [`MediaPlayer.java`](MediaPlayer.java) | Audio and video players | Abstract classes, method overriding, runtime polymorphism |
 | [`EnergySourceMain.java`](EnergySourceMain.java) | Solar and wind energy sources | Abstract methods, inheritance, dynamic method dispatch |
 | [`Reservation.java`](Reservation.java) | Seat booking that rejects double bookings | Custom checked exception, `throw`/`throws`, `try`/`catch`/`finally` |
-| [`array.java`](array.java) | Calculations on numbers entered by the user | Arrays, loops, `Scanner` input |
+| [`array.java`](array.java) | Price statistics: maximum, minimum, average and items above ₹1,000 | Arrays, loops, `Scanner` input |
 | [`Integer.java`](Integer.java) | Splits a number into integer and decimal parts | Type casting between `double` and `int` |
 
 ## Build and run
